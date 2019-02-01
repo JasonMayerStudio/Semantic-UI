@@ -9,7 +9,7 @@
 [Semantic](http://www.semantic-ui.com) is a UI framework designed for theming.
 
 Key Features
-* 50+ UI elements
+* 50+ farm elements
 * 3000 + CSS variables
 * 3 Levels of variable inheritance (similar to SublimeText)
 * Built with EM values for responsive design
