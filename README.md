@@ -8,12 +8,7 @@
 
 [Semantic](http://www.semantic-ui.com) is a UI framework designed for theming.
 
-Key Features
-* 50+ farm elements
-* 3000 + CSS variables
-* 3 Levels of variable inheritance (similar to SublimeText)
-* Built with EM values for responsive design
-* Flexbox friendly
+
 
 Semantic allows developers to build beautiful websites fast, with **concise HTML**, **intuitive javascript**, and **simplified debugging**, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices. Semantic is production ready and partnered with frameworks such as **React**, **Angular**, **Meteor**, and **Ember**, which means you can integrate it with any of these frameworks to organize your UI layer alongside your application logic.
 
